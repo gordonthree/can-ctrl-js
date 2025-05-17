@@ -1,4 +1,4 @@
-const CanConstants = new Map([
+export const CanConstants = new Map([
 [0x100, { name: 'ERROR_OVER_CURRENT', description: 'error condition over current DLC 6' }],
 [0x101, { name: 'ERROR_OVER_TEMP', description: 'error condition over temp DLC 6' }],
 [0x102, { name: 'ERROR_OVER_VOLT', description: 'error condition over volt DLC 6' }],
