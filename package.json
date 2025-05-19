@@ -1,0 +1,10 @@
+{
+  "main": "can-ctrl-consts.js",
+  "name": "can-ctrl-js",
+  "version": "0.0.1",
+  "author": "Gordon McLellan <gordonthree@gmail.com> (https://github.com/gordonthree)",
+  "repository": { 
+    "type": "git", 
+    "url": "https://github.com/gordonthree/can-ctrl-js.git" 
+  } 
+}
